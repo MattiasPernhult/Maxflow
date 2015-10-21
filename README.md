@@ -3,6 +3,7 @@ Implementation of the Ford-Fulkersons maxflow algorithm using C# as programming 
 
 ### Preview of the application
 The application lets the user add edges between nodes and calculates the maximal matching of nodes.
+
 ![My image](http://i.imgur.com/r9iWGNc.gif?1)
 
 ### Why?
